@@ -1,0 +1,9 @@
+table,
+th,
+td {
+  height: 30px;
+  width: 950px;
+  border: 0.5px solid purple;
+  color: blue;
+  background: center;
+}
